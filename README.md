@@ -20,7 +20,8 @@ I enjoy building projects, exploring AI agents and automation, and turning ideas
 * Learning modern development technologies
 * Participating in coding challenges and technical competitions
 * Building projects and documenting my learning journey
-
+* Learning Azure & Cloud Computing through Microsoft Learn
+  
 I believe in learning by building, contributing to the community, and continuously improving through real-world experience.
 <br>
 
